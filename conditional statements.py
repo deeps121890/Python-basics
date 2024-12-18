@@ -20,5 +20,17 @@ else:
 '''
 o/p:40 
     even number
+'''
+x=10
+if x>15:
+    print('welcome')
+    if x==10:
+        print('python')
+    else:
+        print('pycharm')
+else:
+    print('good bye') 
+'''
+o/p:good bye
 
 
